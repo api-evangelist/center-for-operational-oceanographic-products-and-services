@@ -1,0 +1,65 @@
+{
+    "name": "Center for Operational Oceanographic Products and Services",
+    "description": "NOAA understands and predicts changes in the Earth's environment, from the depths of the ocean to the surface of the sun, and conserves and manages our coastal and marine resources. Visit www.noaa.gov and follow us on Twitter via @NOAA.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/noaa-tides-and-currents.png",
+    "tags": [
+        "api provider",
+        "data provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/center-for-operational-oceanographic-products-and-services\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Center for Operational Oceanographic Products and Services",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/noaa-tides-and-currents.png",
+            "humanURL": "http:\/\/tidesandcurrents.noaa.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/center-for-operational-oceanographic-products-and-services-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/national-oceanic-and-atmospheric-administration"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/tidesandcurrents.noaa.gov\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "outreach@noaa.gov"
+        },
+        {
+            "type": "Email",
+            "url": "NOAA.Staff.Directory@noaa.gov"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@noaa.gov"
+        },
+        {
+            "type": "Email",
+            "url": "john.sokich@noaa.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NOAA"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/tidesandcurrents.noaa.gov\/"
+        }
+    ]
+}
